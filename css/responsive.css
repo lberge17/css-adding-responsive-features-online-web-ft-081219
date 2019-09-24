@@ -76,6 +76,7 @@
   }
   
   #details div {
-    display: inline;
+    display: float;
+    width: 30%;
   }
 }
