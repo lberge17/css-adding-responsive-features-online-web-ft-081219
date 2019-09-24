@@ -71,7 +71,7 @@
     display: inline;
   }
   
-  h2 {
+  #logo h2 {
     display: none;
   }
 }
