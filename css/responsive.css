@@ -74,9 +74,4 @@
   #logo h2 {
     display: none;
   }
-  
-  .col-1, .col-2, .col-3 {
-    text-align: center;
-    margin: 1;
-  }
 }
