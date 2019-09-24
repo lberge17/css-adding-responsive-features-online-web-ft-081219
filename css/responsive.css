@@ -68,6 +68,6 @@
   }
   
   .menu-icon {
-    display: flex;
+    display: unset;
   }
 }
