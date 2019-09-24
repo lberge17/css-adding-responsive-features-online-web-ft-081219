@@ -68,7 +68,7 @@
     position: absolute;
   }
   
-  div.wrapper {
+  div.wrapper #logo {
     position: fixed;
   }
   
