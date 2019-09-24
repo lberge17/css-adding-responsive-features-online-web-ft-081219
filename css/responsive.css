@@ -68,6 +68,10 @@
     position: absolute;
   }
   
+  div.wrapper {
+    position: fixed;
+  }
+  
   .menu-icon {
     display: inline;
   }
