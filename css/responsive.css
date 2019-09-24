@@ -70,4 +70,8 @@
   .menu-icon {
     display: inline;
   }
+  
+  h2 {
+    display: none;
+  }
 }
